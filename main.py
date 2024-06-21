@@ -73,7 +73,7 @@ def main():
         yellow_handle_movement(keys_pressed,yellow)
         red_handle_movement(keys_pressed,red)
         
-        draw_window(red,yellow)
+        draw_window(red,yellow)#
     
     pygame.quit()
 
